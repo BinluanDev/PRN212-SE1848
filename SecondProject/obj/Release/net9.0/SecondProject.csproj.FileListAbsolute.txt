@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\bin\Release\net9.0\SecondProject.exe
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\bin\Release\net9.0\SecondProject.deps.json
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\bin\Release\net9.0\SecondProject.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\bin\Release\net9.0\SecondProject.dll
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\bin\Release\net9.0\SecondProject.pdb
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.dll
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\refint\SecondProject.dll
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.pdb
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\SecondProject.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\SecondProject\obj\Release\net9.0\ref\SecondProject.dll

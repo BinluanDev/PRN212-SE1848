@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\bin\Release\net9.0\StringInteraction.exe
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\bin\Release\net9.0\StringInteraction.deps.json
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\bin\Release\net9.0\StringInteraction.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\bin\Release\net9.0\StringInteraction.dll
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\bin\Release\net9.0\StringInteraction.pdb
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.dll
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\refint\StringInteraction.dll
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.pdb
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\StringInteraction.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\StringInteraction\obj\Release\net9.0\ref\StringInteraction.dll

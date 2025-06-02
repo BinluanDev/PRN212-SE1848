@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\paramssample\bin\Debug\net9.0\paramssample.exe
+D:\VsStudio-C#\PRN212-SE1848\paramssample\bin\Debug\net9.0\paramssample.deps.json
+D:\VsStudio-C#\PRN212-SE1848\paramssample\bin\Debug\net9.0\paramssample.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\paramssample\bin\Debug\net9.0\paramssample.dll
+D:\VsStudio-C#\PRN212-SE1848\paramssample\bin\Debug\net9.0\paramssample.pdb
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.dll
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\refint\paramssample.dll
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.pdb
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\paramssample.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\paramssample\obj\Debug\net9.0\ref\paramssample.dll

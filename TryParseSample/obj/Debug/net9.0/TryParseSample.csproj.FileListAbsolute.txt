@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\bin\Debug\net9.0\TryParseSample.exe
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\bin\Debug\net9.0\TryParseSample.deps.json
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\bin\Debug\net9.0\TryParseSample.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\bin\Debug\net9.0\TryParseSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\bin\Debug\net9.0\TryParseSample.pdb
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\refint\TryParseSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.pdb
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\TryParseSample.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\TryParseSample\obj\Debug\net9.0\ref\TryParseSample.dll

@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\bin\Release\net9.0\SimpleMath.exe
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\bin\Release\net9.0\SimpleMath.deps.json
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\bin\Release\net9.0\SimpleMath.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\bin\Release\net9.0\SimpleMath.dll
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\bin\Release\net9.0\SimpleMath.pdb
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.dll
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\refint\SimpleMath.dll
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.pdb
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\SimpleMath.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\SimpleMath\obj\Release\net9.0\ref\SimpleMath.dll

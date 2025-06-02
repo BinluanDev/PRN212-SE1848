@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\bin\Debug\net9.0\TuplesSample.exe
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\bin\Debug\net9.0\TuplesSample.deps.json
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\bin\Debug\net9.0\TuplesSample.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\bin\Debug\net9.0\TuplesSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\bin\Debug\net9.0\TuplesSample.pdb
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\refint\TuplesSample.dll
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.pdb
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\TuplesSample.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\TuplesSample\obj\Debug\net9.0\ref\TuplesSample.dll

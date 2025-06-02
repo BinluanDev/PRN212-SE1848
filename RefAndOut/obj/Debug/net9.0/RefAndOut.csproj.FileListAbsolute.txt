@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\bin\Debug\net9.0\RefAndOut.exe
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\bin\Debug\net9.0\RefAndOut.deps.json
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\bin\Debug\net9.0\RefAndOut.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\bin\Debug\net9.0\RefAndOut.dll
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\bin\Debug\net9.0\RefAndOut.pdb
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.dll
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\refint\RefAndOut.dll
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.pdb
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\RefAndOut.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\RefAndOut\obj\Debug\net9.0\ref\RefAndOut.dll

@@ -1,0 +1,14 @@
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\bin\Release\net9.0\FirstDegree.exe
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\bin\Release\net9.0\FirstDegree.deps.json
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\bin\Release\net9.0\FirstDegree.runtimeconfig.json
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\bin\Release\net9.0\FirstDegree.dll
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\bin\Release\net9.0\FirstDegree.pdb
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.dll
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\refint\FirstDegree.dll
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.pdb
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\FirstDegree.genruntimeconfig.cache
+D:\VsStudio-C#\PRN212-SE1848\FirstDegree\obj\Release\net9.0\ref\FirstDegree.dll

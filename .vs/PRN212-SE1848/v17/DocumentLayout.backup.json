@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VsStudio-C#\\PRN212-SE1848\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3281A77F-89AA-46AF-BD67-9B79BA99130F}|OOP5_Generics\\OOP5_Generics_List.csproj|d:\\vsstudio-c#\\prn212-se1848\\oop5_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3281A77F-89AA-46AF-BD67-9B79BA99130F}|OOP5_Generics\\OOP5_Generics_List.csproj|solutionrelative:oop5_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VsStudio-C#\\PRN212-SE1848\\OOP5_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "OOP5_Generics\\Program.cs",
+              "ToolTip": "D:\\VsStudio-C#\\PRN212-SE1848\\OOP5_Generics\\Program.cs*",
+              "RelativeToolTip": "OOP5_Generics\\Program.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:49:16.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

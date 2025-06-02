@@ -1,0 +1,4 @@
+D:\VsStudio-C#\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio-C#\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.AssemblyInfoInputs.cache
+D:\VsStudio-C#\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.AssemblyInfo.cs
+D:\VsStudio-C#\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.csproj.CoreCompileInputs.cache
